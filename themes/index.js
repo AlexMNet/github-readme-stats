@@ -225,8 +225,8 @@ const themes = {
   react: {
     title_color: "61dafb",
     icon_color: "61dafb",
-    text_color: "ffffff",
-    bg_color: "20232a",
+    text_color: "424752",
+    bg_color: "0D1117",
   },
   jolly: {
     title_color: "ff64da",
