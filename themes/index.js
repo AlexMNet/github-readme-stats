@@ -227,6 +227,7 @@ const themes = {
     icon_color: "61dafb",
     text_color: "424752",
     bg_color: "0D1117",
+    border_color: "939393",
   },
   jolly: {
     title_color: "ff64da",
